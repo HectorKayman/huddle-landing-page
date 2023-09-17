@@ -94,6 +94,12 @@ body {
   fill: hsl(0, 0%, 100%);
   padding: 5px;
   border-radius: 50%;
+  transition: border-color 300ms, fill 300ms;
+}
+
+.social svg:hover {
+  border-color: hsl(300, 69%, 71%);
+  fill: hsl(300, 69%, 71%);
 }
 
 /* Attribution */
