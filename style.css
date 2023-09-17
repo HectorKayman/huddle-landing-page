@@ -81,6 +81,15 @@ body {
   padding: 0 10px 0 0;
 }
 
+.social {
+  filter: invert(100%);
+  width: 30px;
+  height: 30px;
+  border: 2px solid black;
+  padding: 5px;
+  border-radius: 50%;
+}
+
 /* Attribution */
 .attribution {
   font-size: 11px;
