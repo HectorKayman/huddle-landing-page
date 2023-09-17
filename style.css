@@ -38,6 +38,22 @@ body {
   justify-content: space-evenly;
 }
 
+.column-left {
+  width: 40%;
+}
+
+.column-right {
+  width: 30%;
+}
+
+.mockup {
+  width: 100%;
+}
+
+.row {
+  margin: 2rem 0;
+}
+
 /* Attribution */
 .attribution {
   font-size: 11px;
