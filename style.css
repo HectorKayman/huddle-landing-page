@@ -88,12 +88,16 @@ body {
 }
 
 .social {
-  filter: invert(100%);
   width: 30px;
   height: 30px;
-  border: 2px solid black;
+  border: 2px solid hsl(0, 0%, 100%);
   padding: 5px;
   border-radius: 50%;
+}
+
+.social svg {
+  stroke: hsl(0, 0%, 100%);
+  fill: hsl(0, 0%, 100%);
 }
 
 /* Attribution */
