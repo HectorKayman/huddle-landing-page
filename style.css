@@ -96,7 +96,6 @@ body {
 }
 
 .social svg {
-  stroke: hsl(0, 0%, 100%);
   fill: hsl(0, 0%, 100%);
 }
 
