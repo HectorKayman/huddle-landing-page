@@ -27,6 +27,17 @@ body {
   justify-content: space-between;
 }
 
+.logo {
+  width: 15%;
+  padding: 20px;
+}
+
+.main {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
 /* Attribution */
 .attribution {
   font-size: 11px;
