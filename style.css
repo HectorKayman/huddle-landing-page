@@ -71,6 +71,12 @@ body {
   border-radius: 2rem;
   box-shadow: 0 2px 10px hsl(0, 0%, 10%);
   border: 2px solid white;
+  transition: background-color 300ms, color 300ms;
+}
+
+.row .btn:hover {
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(300, 69%, 71%);
 }
 
 .icons {
