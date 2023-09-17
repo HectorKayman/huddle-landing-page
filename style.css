@@ -7,6 +7,18 @@
   box-sizing: border-box;
 }
 
+html {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background-image: url(./images/bg-desktop.svg);
+  background-color: hsl(257, 40%, 49%);
+  color: white;
+  width: 100svw;
+  height: 100svh;
+}
+
 /* Attribution */
 .attribution {
   font-size: 11px;
